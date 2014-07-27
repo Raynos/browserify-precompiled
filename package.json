@@ -1,5 +1,5 @@
 {
-  "name": "browserify",
+  "name": "browserify-precompiled",
   "version": "5.9.1",
   "description": "browser-side require() the node way",
   "main": "index.js",
